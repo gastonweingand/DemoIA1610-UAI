@@ -25,11 +25,11 @@ Podrías armarme el CRUD de esas tablas con entity framework?
 8) Generación de scripting en base a un set de datos
 9) Generación de código en base a documentación, ejemplo:
 Generar código en fastApi para cumplir con las especificaciones del documento
-8) Ejecutar LLM en tu propia PC: https://lmstudio.ai/
-Plugins visual code:
-9) AutoFix: https://deepsource.com/ai
-10) Blackbox como plugin: Demo sobre código JAVA
-10) Qué más?
+10) Ejecutar LLM en tu propia PC: https://lmstudio.ai/
+11) Plugins visual code:
+    11.1) AutoFix: https://deepsource.com/ai
+    11.2) Blackbox como plugin: Demo sobre código JAVA 
+12) Qué más?
 Agente local multipropósito:
 https://github.com/frdel/agent-zero
 
