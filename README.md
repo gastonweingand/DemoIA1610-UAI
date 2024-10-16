@@ -23,8 +23,8 @@ Generar un programa en HTML + CSS + JS que diseñe y ejecute la calculadora que 
 Qué tablas ves en la imagen?
 Podrías armarme el CRUD de esas tablas con entity framework?
 8) Generación de scripting en base a un set de datos
-9) Generación de código en base a documentación
-Generar código en fastApi para cumplir con las especificaciones de un documento
+9) Generación de código en base a documentación, ejemplo:
+Generar código en fastApi para cumplir con las especificaciones del documento
 8) Ejecutar LLM en tu propia PC: https://lmstudio.ai/
 Plugins visual code:
 9) AutoFix: https://deepsource.com/ai
